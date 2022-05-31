@@ -5,6 +5,8 @@
 
 ![Forex USD Currency Market Chart Candlestick Price Movement Stoch RSI](Images/USDCHF-Forex-Chart.png)
 
+# [💹 Federal Funds Rate (FEDERAL FUNDS CHART) 💹](https://ayidouble.github.io/Forex-USD-Currency-Market-Chart/USFEDFUNDSRATE)
+
 # 💹 Currencies 💹
 
 ## [💹 USD/CHF (US-Dollar/Swiss franc) 💹](https://ayidouble.github.io/Forex-USD-Currency-Market-Chart/USDCHF)
