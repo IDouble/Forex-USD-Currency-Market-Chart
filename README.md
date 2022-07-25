@@ -3,7 +3,7 @@
 
 **Link** : **[https://ayidouble.github.io/Forex-USD-Currency-Market-Chart](https://ayidouble.github.io/Forex-USD-Currency-Market-Chart)**</br>
 
-![Federal USD Currency Market Chart Candlestick Price Movement Stoch RSI](Images/USFEDFUNDSRATE-Chart.png)
+![Federal Rate USD Currency Market Chart Candlestick Price Movement Stoch RSI](Images/USFEDFUNDSRATE-Chart.png)
 
 # [💹 Federal Funds Rate (FEDERAL FUNDS CHART) 💹](https://ayidouble.github.io/Forex-USD-Currency-Market-Chart/USFEDFUNDSRATE)
 
