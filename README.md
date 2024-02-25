@@ -18,3 +18,5 @@
 ## [💹 USD/JPY (US-Dollar/Japanese yen) 💹](https://ayidouble.github.io/Forex-USD-Currency-Market-Chart/USDJPY)
 
 ## [💹 USD/CAD (US-Dollar/Canadian dollar) 💹](https://ayidouble.github.io/Forex-USD-Currency-Market-Chart/USDCAD)
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
